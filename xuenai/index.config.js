@@ -114,7 +114,8 @@ var index_config_base_default = {
     { siteName: "xiaoer", displayName: "小二", defaultUrl: "https://erxiaofn.site" },
     { siteName: "muou", displayName: "木偶", defaultUrl: "https://666.666291.xyz" },
     { siteName: "xiaomi", displayName: "小米", defaultUrl: "http://www.miqk.cc" },
-    { siteName: "xiaoban", displayName: "小斑¦网盘", defaultUrl: "http://xsayang.fun:12512" }
+    { siteName: "xiaoban", displayName: "小斑¦网盘", defaultUrl: "http://xsayang.fun:12512" },
+    { siteName: "duoduo2", displayName: "多多¦网盘2", defaultUrl: "https://duo.hidns.vip/" }
   ],
   //网站
   age: {
